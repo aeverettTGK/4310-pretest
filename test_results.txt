@@ -1,0 +1,54 @@
+Question 0: What does the command 'cd ~' do on the command line?
+Moves you to the home directory
+
+Question 1: What does the command 'ls' do on the command line?
+Shows you what files and directories are within the current working directory (doesn't show hidden files and directories)
+
+Question 2: What are the symbols '#' used for in bash and python?
+Comments within, but not run by, the code
+
+Question 3: What is a python package? Are you familiar with any python packages?
+Python packages are collections of scripts, functions, and classes that can be used at will (run certain functions in your code so you don't have to do things from scratch). I am familiar with ranodm, BioPython, argparse, and math.
+
+Question 4: What is a SNP? (hint: this is a biology question, not a computer science question)
+I know this isn't the full answer, but a SNP is a variation in a single nucleotide in DNA when comparing individuals/species
+
+Question 5: What is high-throughput (next generation) sequencing? What types of high-throughput sequencing have you heard of? How do they work?
+Sequencing genetic information in incredibly large amounts at the same time. I know Illumina (hope I spelled that right) is a company that does that, but I'm not sure if that's the name of the particular type they use.
+
+Question 6: What is read mapping?
+Mapping reads of genetic information from sequencing onto a reference
+
+Question 7: What is variant calling?
+Unsure
+
+Question 8: What are your post-graduation plans (if you have any- it's okay if you don't!)
+Go for a Master's in Bioinformatics -> PhD in a field that will make me competitive for research jobs in the pharmaceutical industry
+
+Question 9: What have you enjoyed learning about in CS/bioinformatics courses?
+I've loved learning how to code, feels like learning a new language. I have also enjoyed learning how to analyze biological data on my computer and connect it to real-world phenomena. Particularly, I really enjoyed learning to write and connect scripts to run raw data through.
+
+Question 10: Is there anything in particular you want to learn before you graduate?
+I'd like to get more comfortable with Bash scripting and learn more heavy-duty statistical methods than they teach in MATH 1040 (Intro to Stats).
+
+Question 11: On a scale of 0-9, how comfortable are you using the command line?
+6
+
+Question 12: On a scale of 0-9, how comfortable are you coding in bash?
+3
+
+Question 13: On a scale of 0-9, how comfortable are you coding in python?
+8
+
+Question 14: In computer science, what is a variable?
+A placeholder for a value you want the code to reference later on in the script (can change and be referenced repeatedly as necessary)
+
+Question 15: In computer science, what is a function?
+A function is a series of instructions that can be called to run by the script
+
+Question 16: What is a for loop? What is a while loop?
+A for loop iterates a set number of times and executes a series of commands that number of times. A while loop is a similar iterator, but executes a series of commands a conditional amount of times (EX: Do this command while a condition is true).
+
+Question 17: What is parallelization? Is running commands in-parallel more efficient than running them in a loop?
+I'm honestly not familiar with parallelization, but I'll make the assumption that it is getting your code to run the same commands multiple times simultaneously, which (if I'm right) would make it faster than a loop, as the loop, though running the commands multiple times, still does each command one at a time for however many iterations is specified. (That's my guess!)
+
